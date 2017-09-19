@@ -1,0 +1,6 @@
+[package]
+name = "p6_Plus_Minus"
+version = "0.1.0"
+authors = ["vinter <ankasandora@gmail.com>"]
+
+[dependencies]

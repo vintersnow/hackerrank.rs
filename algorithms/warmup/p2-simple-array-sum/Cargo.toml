@@ -1,0 +1,6 @@
+[package]
+name = "p2-simple-array-sum"
+version = "0.1.0"
+authors = ["vinter <ankasandora@gmail.com>"]
+
+[dependencies]

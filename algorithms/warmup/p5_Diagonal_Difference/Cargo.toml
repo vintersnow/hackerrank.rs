@@ -1,0 +1,6 @@
+[package]
+name = "p5_Diagonal_Difference"
+version = "0.1.0"
+authors = ["vinter <ankasandora@gmail.com>"]
+
+[dependencies]
